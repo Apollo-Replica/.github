@@ -1,12 +1,12 @@
-# Apollo Simulation Peripheral Lab
+# Apollo Replica
 
-Welcome to the Apollo Simulation Peripheral Lab.
+Welcome to Apollo Replica.
 
 ## About Us
 We are a group of enthusiasts dedicated to creating peripherals for simulating spacecraft used in the Apollo program. Our aim is to provide authentic experiences for enthusiasts, educators, and anyone interested in space exploration history and technology.
 
 ## Our Projects
-### DSKY Interface Replica
+### DSKY Replica
 Our first project is to create a replica of the Display and Keyboard (DSKY) interface used in the Apollo Guidance Computer (AGC). The DSKY was a critical component of the Apollo spacecraft, facilitating input commands and providing vital information during missions.
 
 Stay tuned for updates on our progress and how you can contribute to this project.
